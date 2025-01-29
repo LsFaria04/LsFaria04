@@ -13,7 +13,7 @@ Currently, I'm a student at FEUP, Portugal:
 
 ### Languages:
 
-[![My Skills](https://skillicons.dev/icons?i=python,cpp,java,dart,html,css,php,js,c,sqlite&perline=20)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,cpp,java,dart,html,css,php,js,c,sqlite,postgres,haskell&perline=20)](https://skillicons.dev)
 
 ### IDE's:
 
@@ -21,7 +21,7 @@ Currently, I'm a student at FEUP, Portugal:
 
 ### Tools:
 
-[![My Skills](https://skillicons.dev/icons?i=anaconda,flutter,firebase,gradle,git,github,gitlab,gherkin,figma&perline=20)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=anaconda,flutter,firebase,gradle,git,github,gitlab,gherkin,figma,tailwind,laravel&perline=20)](https://skillicons.dev)
 
 ### OS's:
 [![My Skills](https://skillicons.dev/icons?i=ubuntu,linux,windows&perline=20)](https://skillicons.dev)
