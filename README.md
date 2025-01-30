@@ -41,7 +41,12 @@ Currently, I'm a student at FEUP, Portugal:
     <tr><td>DA</td><td><a href = "https://github.com/LTheGreatest/DA_Project2">TSP</a></td><td>Various algorithms to solve the TSP problem</td></tr>
     <tr><td>ESOF</td><td><a href = "https://github.com/LTheGreatest/ESOF_Project-Green_go">Green Go</a></td><td>Mobile app that encourages the use of sustainable means of transport. Developed using agile methods and applying several software engineering principles</td></tr>
     <tr><td>LCOM</td><td><a href = "https://github.com/LTheGreatest/LCOM_Project-Tennis_for_Two.git">Tennis For Two</a></td><td>Tennis game inspired in the classical game "Tennis for Two". Uses various devices learned during the classes.</td></tr>
-
+    <tr><td>RCOM</td><td><a href = "https://github.com/LsFaria04/rcom_lab1">Lab 1</a></td><td>App that implements the link layer for a file transferring app using the Stop and Wait protocol.</td></tr>
+    <tr><td>RCOM</td><td><a href = "https://github.com/LsFaria04/RCOM_lab2">Lab 2</a></td><td>App used to transfer files from FTP servers using the FTP protocol to comunicate.</td></tr>
+    <tr><td>LBAW</td><td><a href = "https://github.com/LsFaria04/Wavy_Lbaw2024-2025">Wavy</a></td><td>Social network implemented using Laravel as the backend framework.</td></tr>
+    <tr><td>PFL</td><td><a href = "https://github.com/LsFaria04/PFL_Project1">Haskell Graph problems</a></td><td>Several graph problems solved using haskell, including the shortest path problem and the tsp.</td></tr>
+    <tr><td>PFL</td><td><a href = "https://github.com/LsFaria04/PFL_Project2">BlackStone</a></td><td>Implementation of the board game named BlackStone using Prolog.</td></tr>
+    <tr><td>FSI</td><td><a href = "https://github.com/LsFaria04/FSI_2024-2025">Labs and CTFs</a></td><td>Labs and CTFs solved during the FSI course.</td></tr>
 </table>
 
 ## Contacts 
