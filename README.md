@@ -48,6 +48,7 @@ Currently, I'm a student at FEUP, Portugal:
     <tr><td>PFL</td><td><a href = "https://github.com/LsFaria04/PFL_Project2">BlackStone</a></td><td>Implementation of the board game named BlackStone using Prolog.</td></tr>
     <tr><td>FSI</td><td><a href = "https://github.com/LsFaria04/FSI_2024-2025">Labs and CTFs</a></td><td>Labs and CTFs solved during the FSI course.</td></tr>
     <tr><td>IA</td><td><a href = "https://github.com/LsFaria04/Wood_Block_AI">Wood Block</a></td><td>Wood block game using AI search algorithms to solve the puzzles and help the player with tips</td></tr>
+    <tr><td>IA</td><td><a href = "https://github.com/LsFaria04/Fraud_Detection_Supervised_Learning">Fraud Detection</a></td><td>Fraud Dectection using supervised learning AI models</td></tr>
 </table>
 
 ## Contacts 
