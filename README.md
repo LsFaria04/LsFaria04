@@ -51,6 +51,7 @@ Currently, I'm a student at FEUP, Portugal:
     <tr><td>IA</td><td><a href = "https://github.com/LsFaria04/Fraud_Detection_Supervised_Learning">Fraud Detection</a></td><td>Fraud Dectection using supervised learning AI models</td></tr>
     <tr><td>CPD</td><td><a href = "https://github.com/LsFaria04/Matrix_Mult_OpenMP">Matrix Multiplication</a></td><td>Comparision of several matrix multiplication algorithms using OpenMP, C++ and Python</td></tr>
     <tr><td>CPD</td><td><a href = "https://github.com/LsFaria04/Chat-Service">Chat Service</a></td><td>Chat service that leverages key concepts from distributed systems</td></tr>
+    <tr><td>COMP</td><td><a href = "https://github.com/LsFaria04/jmm_compiler">Jmm compiler</a></td><td>Simple but complete compiler that handles a languafe based on the Java programming language</td></tr>
 </table>
 
 ## Contacts 
