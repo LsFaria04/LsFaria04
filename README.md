@@ -52,6 +52,7 @@ Currently, I'm a student at FEUP, Portugal:
     <tr><td>CPD</td><td><a href = "https://github.com/LsFaria04/Matrix_Mult_OpenMP">Matrix Multiplication</a></td><td>Comparision of several matrix multiplication algorithms using OpenMP, C++ and Python</td></tr>
     <tr><td>CPD</td><td><a href = "https://github.com/LsFaria04/Chat-Service">Chat Service</a></td><td>Chat service that leverages key concepts from distributed systems</td></tr>
     <tr><td>COMP</td><td><a href = "https://github.com/LsFaria04/jmm_compiler">Jmm compiler</a></td><td>Simple but complete compiler that handles a languafe based on the Java programming language</td></tr>
+    <tr><td>CG</td><td><a href = "https://github.com/LsFaria04/CG_Scene">Jmm compiler</a></td><td>3D scene built with WebGL, showcasing a variety of objects and materials</td></tr>
 </table>
 
 ## Contacts 
