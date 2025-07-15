@@ -2,7 +2,7 @@
 
 Currently, I'm a student at FEUP, Portugal:
 
-* :mortar_board: I'm on the third year of the bachelor in Informatics and Computing Engineering.
+* :mortar_board: I'm on the first year of the master in Informatics and Computing Engineering.
 
 * :zap: Because technology is my passion, I use my free time to explore and learn new skills and technologies.
 
