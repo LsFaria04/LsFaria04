@@ -1,5 +1,8 @@
 ## Hi there, I'm Lucas 👋
 
+ <img src="https://komarev.com/ghpvc/?username=LsFaria04&color=blue&style=for-the-badge"></img>
+
+
 Currently, I'm a student at FEUP, Portugal:
 
 * :mortar_board: I'm on the first year of the master in Informatics and Computing Engineering.
