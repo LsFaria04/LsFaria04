@@ -55,7 +55,13 @@ Currently, I'm a student at FEUP, Portugal:
     <tr><td>CPD</td><td><a href = "https://github.com/LsFaria04/Matrix_Mult_OpenMP">Matrix Multiplication</a></td><td>Comparision of several matrix multiplication algorithms using OpenMP, C++ and Python</td></tr>
     <tr><td>CPD</td><td><a href = "https://github.com/LsFaria04/Chat-Service">Chat Service</a></td><td>Chat service that leverages key concepts from distributed systems</td></tr>
     <tr><td>COMP</td><td><a href = "https://github.com/LsFaria04/jmm_compiler">Jmm compiler</a></td><td>Simple but complete compiler that handles a languafe based on the Java programming language</td></tr>
-    <tr><td>CG</td><td><a href = "https://github.com/LsFaria04/CG_Scene">CG 3d scene</a></td><td>3D scene built with WebGL, showcasing a variety of objects and materials</td></tr>
+    <tr><td>CG</td><td><a href = "https://github.com/LsFaria04/CG_Scene">CG 3D scene</a></td><td>3D scene built with WebGL, showcasing a variety of objects and materials</td></tr>
+    <tr><td>SGI</td><td><a href = "https://github.com/LsFaria04/SGI_Underwater_3d_scene/tree/main/pw1">3D study room</a></td><td>A Three.js 3D scene depicting a study room, featuring a diverse set of objects and materials and built using a range of simple to moderately complex techniques.</td></tr>
+    <tr><td>SGI</td><td><a href = "https://github.com/LsFaria04/SGI_Underwater_3d_scene/tree/main/pw2">3D underwater environment</a></td><td>A Three.js  3D scene portraying an underwater ocean environment, featuring a wide variety of objects and materials and built using techniques ranging from moderately to highly complex.</td></tr>
+    <tr><td>PRI</td><td><a href = "https://github.com/LsFaria04/PRI_Board_Games_Search_System">Board games search system</a></td><td>A search system built with Solr that supports both lexical and semantic search techniques.</td></tr>
+    <tr><td>SDLE</td><td><a href = "https://github.com/LsFaria04/SDLE_Local_First_Shopping_List">Local First Shopping List APP</a></td><td>A local‑first application that supports cloud synchronization and user‑to‑user sharing. The cloud service follows a DynamoDB‑like model but relies on CRDTs to guarantee consistency and high availability.</td></tr>
+    <tr><td>DS</td><td><a href = "https://github.com/LsFaria04/DS_Tracking_System">MadeinPortugal.store order tracking system</a></td><td>A system developed for the MadeinPortugal.store  project that allows users to track their orders, leveraging blockchain technology to enhance the transparency and security of order data and location updates.</td></tr>
+    <tr><td>AC</td><td><a href = "https://github.com/LsFaria04/ML-Basketball-Season">Basketball Season Predictions</a></td><td>A machine learning pipeline that uses historical WNBA data to predict next‑season awards, coaching changes, and team standings.</td></tr>
 </table>
 
 ## Contacts 
