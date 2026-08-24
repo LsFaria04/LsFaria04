@@ -16,7 +16,7 @@ Currently, I'm a student at FEUP, Portugal:
 
 ### Languages:
 
-[![My Skills](https://skillicons.dev/icons?i=python,cpp,java,dart,html,css,php,js,c,sqlite,postgres,go&perline=20)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,cpp,java,dart,html,css,php,js,c,sqlite,postgres,go,ts&perline=20)](https://skillicons.dev)
 
 ### IDE's:
 
