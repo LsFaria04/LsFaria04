@@ -5,7 +5,7 @@
 
 Currently, I'm a student at FEUP, Portugal:
 
-* :mortar_board: I'm on the first year of the master in Informatics and Computing Engineering.
+* :mortar_board: I'm on the second year of the master in Informatics and Computing Engineering.
 
 * :zap: Because technology is my passion, I use my free time to explore and learn new skills and technologies.
 
@@ -16,7 +16,7 @@ Currently, I'm a student at FEUP, Portugal:
 
 ### Languages:
 
-[![My Skills](https://skillicons.dev/icons?i=python,cpp,java,dart,html,css,php,js,c,sqlite,postgres,haskell&perline=20)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,cpp,java,dart,html,css,php,js,c,sqlite,postgres,go&perline=20)](https://skillicons.dev)
 
 ### IDE's:
 
@@ -24,7 +24,7 @@ Currently, I'm a student at FEUP, Portugal:
 
 ### Tools:
 
-[![My Skills](https://skillicons.dev/icons?i=anaconda,flutter,firebase,gradle,git,github,gitlab,gherkin,figma,tailwind,laravel&perline=20)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=anaconda,flutter,firebase,gradle,git,github,gitlab,figma,tailwind,laravel&perline=20)](https://skillicons.dev)
 
 ### OS's:
 [![My Skills](https://skillicons.dev/icons?i=ubuntu,linux,windows&perline=20)](https://skillicons.dev)
