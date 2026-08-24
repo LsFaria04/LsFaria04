@@ -62,7 +62,14 @@ Currently, I'm a student at FEUP, Portugal:
     <tr><td>SDLE</td><td><a href = "https://github.com/LsFaria04/SDLE_Local_First_Shopping_List">Local First Shopping List APP</a></td><td>A local‑first application that supports cloud synchronization and user‑to‑user sharing. The cloud service follows a DynamoDB‑like model but relies on CRDTs to guarantee consistency and high availability.</td></tr>
     <tr><td>DS</td><td><a href = "https://github.com/LsFaria04/DS_Tracking_System">MadeinPortugal.store order tracking system</a></td><td>A system developed for the MadeinPortugal.store  project that allows users to track their orders, leveraging blockchain technology to enhance the transparency and security of order data and location updates.</td></tr>
     <tr><td>AC</td><td><a href = "https://github.com/LsFaria04/ML-Basketball-Season">Basketball Season Predictions</a></td><td>A machine learning pipeline that uses historical WNBA data to predict next‑season awards, coaching changes, and team standings.</td></tr>
+    <tr><td>O</td><td><a href = "https://github.com/LsFaria04/Optimization_Project">Hardware Procurement Optimization</a></td><td>An optimization model that solves a hardware procurement problem.</td></tr>
+    <tr><td>MFS</td><td><a href = "https://github.com/LsFaria04/Verified-File-Manipulation">Verified file manipulation</a></td><td>File manipulation algorithms verified using the Dafny language.</td></tr>
+     <tr><td>MFS</td><td><a href = "https://github.com/LsFaria04/Elevator_System_Spec">Elevator system specification</a></td><td>Elevator system specification developed in TLA+.</td></tr>
+     <tr><td>ASMA</td><td><a href = "https://github.com/LsFaria04/Reinforcement-Learning-Lunar-Lander-Custom">Custom Lunar Lander Reinforcement learning agent</a></td><td>A reinforcement learning agent trained in a customized Lunar Lander environment, adapted from the original Gymnasium implementation to incorporate modified dynamics, rewards, and environment constraints.</td></td></tr>
+     <tr><td>ASMA</td><td><a href = "https://github.com/LsFaria04/Multi-Agent-Disaster-Response-and-Relief-Coordination-System">Multi Agent Disaster Response and Relief Coordination System</a></td><td>A multi agent system that simulates and optimizes 
+the coordination of relief efforts in response to a natural disaster</td></td></tr>
 </table>
+
 
 ## Contacts 
 
